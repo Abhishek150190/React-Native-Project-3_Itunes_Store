@@ -10,3 +10,7 @@
 
 4. Users can sort the albums based on price, artist and release date
 
+
+Here a working Demo
+![Itunes_Store_Abhishek (2)](https://user-images.githubusercontent.com/38033939/85946423-c79ad200-b961-11ea-81c8-6ed505acfe6a.gif)
+
